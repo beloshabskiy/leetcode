@@ -1,5 +1,7 @@
 package leetcode.p234;
 
+import leetcode.ListNode;
+
 /**
  * 234. Palindrome Linked List
  * Given a singly linked list, determine if it is a palindrome.

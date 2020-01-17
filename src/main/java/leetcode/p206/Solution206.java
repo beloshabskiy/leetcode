@@ -1,5 +1,7 @@
 package leetcode.p206;
 
+import leetcode.ListNode;
+
 /**
  * 206. Reverse Linked List
  * Reverse a singly linked list.

@@ -1,5 +1,7 @@
 package leetcode.p234;
 
+import leetcode.ListNode;
+
 import java.util.LinkedList;
 
 /**

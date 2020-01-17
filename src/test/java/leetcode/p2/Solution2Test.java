@@ -1,5 +1,6 @@
 package leetcode.p2;
 
+import leetcode.ListNode;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

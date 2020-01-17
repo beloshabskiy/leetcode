@@ -1,5 +1,6 @@
 package leetcode.p206;
 
+import leetcode.ListNode;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
