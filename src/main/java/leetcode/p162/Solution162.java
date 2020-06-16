@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.p162;
 
 /**
  * 162. Find Peak Element

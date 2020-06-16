@@ -1,5 +1,6 @@
 package leetcode;
 
+import leetcode.p162.Solution162;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
